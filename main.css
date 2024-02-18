@@ -23,6 +23,7 @@ img {
 
 #nextButton {
     position: absolute;
+    justify-content: center;
     margin-right: 150px;
 }
 
