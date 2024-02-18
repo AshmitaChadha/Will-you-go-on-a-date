@@ -20,3 +20,8 @@ img {
     justify-content: center;
     align-items: center;
 }
+
+#nextButton {
+    position: absolute;
+    margin-right: 150px;
+}
