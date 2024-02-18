@@ -26,6 +26,15 @@ img {
     margin-right: 150px;
 }
 
+.button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
 .btn {
     background-color: #f7bcd5;
     color: white;
